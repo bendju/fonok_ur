@@ -1,0 +1,38 @@
+h1{
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+#menu{
+    border: 2px solid black;
+    width: auto;
+    height: 220px;
+    float: left;
+    padding: 20px;
+    background-color: silver;
+    position: fixed;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#lada1{
+    float: right;
+    width: 380px;
+    color: aliceblue;
+    display: block;
+}
+#erdekes{
+    color: white;
+    font-size: 30px;
+    margin: 10px 10px 10px 10px;
+    padding-left: 433px;
+    padding-right: 433px;
+    padding-top: 43px;
+}
+img{
+    width: 400px;
+}
